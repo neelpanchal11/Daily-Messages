@@ -51,7 +51,6 @@ gdocument.addEventListener("DOMContentLoaded", function() {
         "48. You're the one I want to spend the rest of my life with.",
         "49. I can't wait to grow old with you.",
         "50. You're my partner in crime, my confidant, my everything.",
-
         "51. I’d rather spend one moment holding you than a lifetime knowing I never could.",
         "52. I don’t want to be your favorite or your best. I want to be your only and forget the rest.",
         "53. Thinking of you keeps me awake. Dreaming of you keeps me asleep. Being with you keeps me alive.",
